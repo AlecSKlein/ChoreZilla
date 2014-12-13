@@ -1,0 +1,15 @@
+This is the combined version of my and Jonas' work
+
+- Registration fields are tied to variables
+- Necessary checks during registration are made
+  *If username exists
+  *If passwords are the same
+  *If all fields are filled out
+- SignIn checks against files to see if username exists before logging in
+- SignIn tells user to register if the username is not found
+- Combined my and Jonas' components
+
+Not done at this point
+* Remember Me checkbox needs implementation
+* SignIn doesn't parse for password check yet
+* Where in the hell do the files physically go?!

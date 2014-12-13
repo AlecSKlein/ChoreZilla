@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<collection>
+<list name="Parent's House" owner="paintballking96" users="paintballking96 bmsalm bathtubbrew alecklein">
+	<item name="Take Out Trash" owner="paintballking96">
+        <resp>bmsalm alecklein</resp>
+        <weight>5</weight>
+        <due>1383510600</due>
+        <done></done>
+        <by></by>
+    </item>
+    <item 
+        name="Feed Fish" 
+        owner="paintballking96">
+        <resp>bmsalm</resp>
+        <weight>5</weight>
+        <due>1383532200</due>
+        <done></done>
+        <by></by>
+    </item>
+    <item 
+        name="Vacuum Upstairs" 
+        owner="paintballking96">
+        <resp>bmsalm</resp>
+        <weight>15</weight>
+        <due></due>
+        <done></done>
+        <by></by>
+    </item>
+    <item 
+        name="Vacuum Downstairs" 
+        owner="paintballking96">
+        <resp>paintballking96</resp>
+        <weight>15</weight>
+        <due></due>
+        <done></done>
+        <by></by>
+    </item>
+ 	<item 
+        name="Wash/Dry Dishes" 
+        owner="paintballking96">
+        <resp>bathtubbrew</resp>
+        <weight>20</weight>
+        <due></due>
+        <done></done>
+        <by></by>
+    </item>
+    <item 
+        name="Walk dog" 
+        owner="paintballking96">
+        <resp>alecklein</resp>
+        <weight>20</weight>
+        <due></due>
+        <done></done>
+        <by></by>
+    </item>
+</list>
+<list name="Apartment Tasks" owner="bmsalm" users="bmsalm dvasko cwalk tjones jtrev ">
+	<item 
+		name="Buy Papertowels and Napkins" 
+        owner="bmsalm">
+        <resp>bmsalm</resp>
+        <weight>10</weight>
+        <due></due>
+        <done></done>
+        <by></by>
+    </item>
+    <item 
+        name="Vacuum" 
+        owner="bmsalm">
+        <resp>cwalk</resp>
+        <weight>10</weight>
+        <due></due>
+        <done></done>
+        <by></by>
+    </item>
+    <item 
+        name="Dishes" 
+        owner="jtrev">
+        <resp>bmsalm</resp>
+        <weight>15</weight>
+        <due></due>
+        <done></done>
+        <by></by>
+    </item>
+    <item 
+        name="Dust" 
+        owner="bmsalm">
+        <resp>tjones</resp>
+        <weight>15</weight>
+        <due></due>
+        <done></done>
+        <by></by>
+    </item>
+ 	<item 
+        name="Mop Kitchen" 
+        owner="bmsalm">
+        <resp>dvasko</resp>
+        <weight>20</weight>
+        <due></due>
+        <done></done>
+        <by></by>
+    </item>
+    <item 
+        name="Cut Grass" 
+        owner="bmsalm">
+        <resp>cwalk</resp>
+        <weight>20</weight>
+        <due></due>
+        <done></done>
+        <by></by>
+    </item>
+</list>
+</collection>
